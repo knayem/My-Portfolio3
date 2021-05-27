@@ -169,7 +169,7 @@ section{
 .D-L{
     background-image: url("sec4.png");
     background-repeat: no-repeat;
-      background-color:purple;
+      background-color: rgba(40, 4, 73, 0.993);
      border-radius: 30px;
     height: 100%;
     background-size: contain;
@@ -194,13 +194,10 @@ section{
     margin-top: 30px;
     margin-right: 40px;
     font-family: 'Goldman', cursive;
-
 }
 .o-gy{
-
 margin-top: 5px;
 text-align: center;
-
 }
 .o-gy img{
 width:30px;
@@ -223,11 +220,9 @@ h6{
     border-left: 7px solid;
     background-image: linear-gradient(140deg, blue ,cyan );
     border-image-slice: 1;
-    
     } 
     #baby-web{
-    
-        border-left: 7px solid;
+         border-left: 7px solid;
         background-image: linear-gradient(140deg, white , whitesmoke );
         border-image-slice: 1;
         
@@ -250,44 +245,30 @@ h6{
         background-repeat: no-repeat;
         background-position: left;
         margin-top: 2%;
-        
         }
-
-        .about{
+ .about{
             background-image: url(images/dream-bg.png);
             background-repeat: no-repeat;
             background-position: right;
-            
-            
-            }
-        
-
-        .slide{
+             }
+  .slide{
             transition: transform .5s;
         }
-        
-        .slide:hover{
+ .slide:hover{
             transform: scale(1.1);
             transition: transform .5s;
         }
-        .mess{
-
-
+ .mess{
             padding-top: 80px;
             font-size: 20px;
         }
-        .edu{
-
-
-     margin-left: 32%;
-
+ .edu{
+         margin-left: 32%;
         }
-        .exp{
+ .exp{
             margin-left: 17%;
         }
-        .email img{
+ .email img{
             width:30px;
-            
-                
-            }
+          }
   
